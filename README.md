@@ -1,5 +1,8 @@
 # Async-Javascript
-Using Javascript Aysynchronously
+Using Javascript Aysynchronously. I have used following approaches:
+1. Callback Approach
+2. Promise Approach
+3. Await/Async Approach
 
 ## Running Locally
 
